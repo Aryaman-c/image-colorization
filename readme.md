@@ -15,6 +15,7 @@ Image colorization is a challenging problem in computer vision with applications
 ### Required Libraries:
 - OpenCV
 - NumPy
+- Download a pre-trained model for the code or download the model from the link given in the code
 
 ## Model Details
 The colorization model is based on a Convolutional Neural Network (CNN) trained on a large dataset of natural images. It learns to predict the a*b color channels from the L channel in the Lab color space.
